@@ -1,0 +1,12 @@
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\dictionary.baml
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\MainWindow.baml
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\MainWindow.g.cs
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\App.g.cs
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\trypro_MarkupCompile.cache
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\trypro.g.resources
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\trypro.Properties.Resources.resources
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\trypro.csproj.GenerateResource.Cache
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\bin\Debug\trypro.exe
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\bin\Debug\trypro.pdb
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\trypro.exe
+c:\users\s_a_chernysheva\documents\visual studio 2010\Projects\trypro\trypro\obj\x86\Debug\trypro.pdb
